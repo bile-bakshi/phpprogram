@@ -6,6 +6,7 @@
 
 <?php
 echo "Hello World!";
+echo "now trying to run php program using Jenkins";
 ?>
 
 </body>
